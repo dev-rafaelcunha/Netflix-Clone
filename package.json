@@ -1,0 +1,23 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcodebr/curso-bootstrap-4-layout-netflix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcodebr/curso-bootstrap-4-layout-netflix/issues"
+  },
+  "homepage": "https://github.com/hcodebr/curso-bootstrap-4-layout-netflix#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
